@@ -1,7 +1,7 @@
 # Guess-Number
 -A game.
 
--The language is English.
+-The language is English and Chinese.
 
 -One of the writer think that everyone can understand it.
 
