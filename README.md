@@ -11,4 +11,4 @@
 
 -Among them, the C + + version was developed by fanjun, and the python 3 and Pascal versions were developed by hxrlz.
 
--the c++ version has a headfile version,you should download it with "stdc++.h".
+-the c++ version has a headfile version,you should download it and "stdc++.h".
